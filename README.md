@@ -7,14 +7,14 @@
 * 🎓  Pursuing Master of Science in Technology Management at University of Illinois Urbana-Champaign
 * 💻  Working towards becoming a better Data Scientist 
 * 🤝  Looking to collaborate on projects in the domains of Data Science and Machine Learning.
-* 🌱  Avid traveller, enjoy surfing and playing basketball
+* 🌱  Avid traveller, surfer, basketball and poker player
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-  <a href="https://opencv.org" title="AWS" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
-  <a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
+  <a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></a>
+  <a href="https://www.w3.org/html/" title="Numpy" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/></a>
   <a href="https://www.w3schools.com/css/" title="CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
   <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
   <a href="https://www.javascript.com" title="JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
