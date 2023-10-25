@@ -2,18 +2,18 @@
 
 <h1 align="center"> Hi there! I'm Atul and welcome to my Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1>
 
-* 🧐  Profien
-* 🤔  Fascinated by the Blockchain technology and super excited for its future.
-* 🎓  Pursuing Bachelor of Engineering in Computer Engineering. GPA: 9.5/10.0
-* 💻  Working on creating my own portfolio website.
-* 🤝  Looking to collaborate on Python projects in the domains of Data Science and Machine Learning.
-* 🌱  Keen to learn more about Psychology & Philosophy.
+* 🧐  Curious about new ways to solve complex problems
+* 🤔  Advocate of the saying "Data is the new oil'
+* 🎓  Pursuing Master of Science in Technology Management at University of Illinois Urbana-Champaign
+* 💻  Working towards becoming a better Data Scientist 
+* 🤝  Looking to collaborate on projects in the domains of Data Science and Machine Learning.
+* 🌱  Avid traveller, enjoy surfing and playing basketball
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-  <a href="https://opencv.org" title="OpenCV" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/opencv.png"></a>
+  <a href="https://opencv.org" title="AWS" target="_blank"><img src="https://icons8.com/icon/33039/amazon-web-services"></a>
   <a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
   <a href="https://www.w3schools.com/css/" title="CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
   <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
