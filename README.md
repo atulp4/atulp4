@@ -13,13 +13,12 @@
 
 <p align="left"> 
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-  <a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></a>
   <a href="https://numpy.org/" title="Numpy" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/></a>
   <a href="https://pandas.pydata.org/" title="Pandas" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/></a>
-  <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
-  <a href="https://www.javascript.com" title="JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Microsoft Excel" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/></a>
+  <a href="https://azure.microsoft.com/en-us" title="Azure" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/azure-1.png" alt="azure-1"/></a>
+  <a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></a>
   <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160" title="C++" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
 </p>
 
 ## 🎨 Other Tools:
