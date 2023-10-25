@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there! I'm Atul and welcome to my Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1>
 
 * 🔭  Apt in tackling complex business problems by developing dynamic business processes to fuel cost-effective innovation
-* 🔭  Product and service-oriented B2B experiences have enabled me to work at the intersection of product, business, and data science
+* 🔭  Product and service-oriented B2B experiencee has enabled me to work at the intersection of product, business, and data science
 * 🎓  Pursuing Master of Science in Technology Management at the University of Illinois at Urbana-Champaign
 * 💻  Working towards becoming a better Data Scientist 
 * 🤝  Looking to collaborate on projects in the domains of Data Science and Machine Learning 
