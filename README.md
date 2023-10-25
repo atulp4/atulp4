@@ -7,7 +7,7 @@
 * 🎓  Pursuing Master of Science in Technology Management at the University of Illinois at Urbana-Champaign
 * 💻  Working towards becoming a better Data Scientist 
 * 🤝  Looking to collaborate on projects in the domains of Data Science and Machine Learning 
-* 🌱  Avid traveller, surfer, basketball and poker player
+* ⚡  Avid traveller, surfer, basketball and poker player
 
 ## 🚀 Languages and Tools:
 
@@ -28,20 +28,8 @@
   <a href="https://www.tableau.com/" title="Tableau" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/></a>
   <a href="https://powerbi.microsoft.com/en-us/" title="PowerBI" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></a>
   <a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="PowerPoint" target="_blank"><<img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="PowerPoint" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/></a>
   <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"></a>
-
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=shreyash04">
-</a>
-<a href="https://github.com/shreyash04?tab=followers"><img src="https://img.shields.io/github/followers/shreyash04?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
 
 
 <!--
