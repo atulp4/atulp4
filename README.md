@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Hi there! I'm Atul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hi there! I'm Atul and welcome to my Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1>
 
-* 🧐  Curious about the domains of Data Science and Machine Learning.
+* 🧐  Profien
 * 🤔  Fascinated by the Blockchain technology and super excited for its future.
 * 🎓  Pursuing Bachelor of Engineering in Computer Engineering. GPA: 9.5/10.0
 * 💻  Working on creating my own portfolio website.
