@@ -13,7 +13,7 @@
 
 <p align="left"> 
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-  <a href="https://opencv.org" title="AWS" target="_blank"><img src="https://icons8.com/icon/33039/amazon-web-services"></a>
+  <a href="https://opencv.org" title="AWS" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
   <a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
   <a href="https://www.w3schools.com/css/" title="CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
   <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
