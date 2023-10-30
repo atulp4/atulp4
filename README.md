@@ -30,6 +30,8 @@
   <a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="PowerPoint" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/></a>
   <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"></a>
+  <a href="https://www.canva.com/" title="Canva" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/></a>
+
 
 
 <!--
