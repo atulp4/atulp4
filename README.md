@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there! I'm Atul and welcome to my Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1>
+<h1 align="center"> Hi there! I'm Atul and welcome to my Github   </h1>
 
 * 🔭  Apt in tackling complex business problems by developing dynamic business processes to fuel cost-effective innovation
 * 🔭  Product and service-oriented B2B experience has enabled me to work at the intersection of product, business, & DS
