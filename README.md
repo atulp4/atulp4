@@ -4,7 +4,7 @@
 * 🔭  Apt in tackling complex business problems by developing dynamic business processes to fuel cost-effective innovation
 * 🔭  Product and service-oriented B2B experience has enabled me to work at the intersection of product, business, & DS
 * 🎓  Pursuing Master of Science in Technology Management at the University of Illinois at Urbana-Champaign
-* 💻  Working towards becoming a better Data Scientist 
+* 💻  Highly passionate about product and data science 
 * 🤝  Looking to collaborate on projects in the domains of Data Science and Machine Learning 
 * ⚡   Avid traveller, surfer, basketball and poker player
 
